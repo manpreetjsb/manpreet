@@ -6,4 +6,4 @@ i am a Frontend Web Develpoper, hardworking, reliable and dedicated programmer, 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manpreetjsb&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetjsb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetjsb&layout=compact)](https://github.com/manpreetjsb/github-readme-stats)
