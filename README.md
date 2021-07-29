@@ -11,8 +11,8 @@ linkedin
 
 # Things I am working on now
 
-  Building Frontend of a property website by using Next.js, React and Typescript Collaborating with other developers.
-  Learning how to test React apps with JEST and the react testing library.
+  * Building Frontend of a property website by using Next.js, React and Typescript Collaborating with other developers.
+  * Learning how to test React apps with JEST and the react testing library.
 
 
 
