@@ -30,7 +30,10 @@ i am a Frontend Web Develpoper, hardworking, reliable and dedicated programmer, 
   * Building Frontend for PandaCup e-commerce website by using React, Bootstrap, SCSS and Jest.
   * Learning how to test React apps with JEST and the react testing library.
 
-
+# Sample Projects
+* pokemon [Live](https://pokemon-manpreet.netlify.app/) | [Repo](https://github.com/manpreetjsb/Pokemon)
+* Shopping Cart in React [Live](https://simple-shopping-cart-react.netlify.app) | [Repo](https://github.com/manpreetjsb/react-shopping-cart)
+* Tic-Tac-Toe [Live](https://tic-tac-toe-manpreet.netlify.app) | [Repo](https://github.com/manpreetjsb/tic-tac-toe)
 
 # Github status:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manpreetjsb&show_icons=true&theme=radical)
